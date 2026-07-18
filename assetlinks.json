@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.soavertriggertracker",
+      "sha256_cert_fingerprints": ["C2:60:F1:4E:0B:17:19:3D:E2:F6:6B:DF:02:A4:C5:30:4A:EB:CF:F1:19:D5:66:43:26:E1:26:5A:3A:AD:59:7E”]
+    }
+  }
+]
